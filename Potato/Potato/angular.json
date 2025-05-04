@@ -136,12 +136,7 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
-    ],
-<<<<<<< HEAD
-    "analytics": false
-=======
-    "analytics": "090c95d4-15e4-4621-a2ff-25b758c26047"
->>>>>>> 509312d (Atualizações feitas no projeto)
+    ]
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
